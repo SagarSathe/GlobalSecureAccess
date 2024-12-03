@@ -32,3 +32,4 @@ To avoid these kind of issues, that happen to be hard to troubleshoot and discov
 - Default value: `0 (minutes)` 
 
 More info: https://learn.microsoft.com/entra/global-secure-access/how-to-configure-kerberos-sso#option-1-change-the-default-farkdctimeout-time-on-the-registry
+.
